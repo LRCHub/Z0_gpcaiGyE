@@ -1,0 +1,45 @@
+# GODIEGO – モンキー・マジック
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Bom from an egg on a mountain top
+The punkiest monkey that ever popped
+He knew every magic trick under the sun
+To tease the Gods
+And everyone and have some fun
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+
+What a cocky saucy Monkey this one is
+All the Gods were angered
+And they punished him
+Until he was saved by a kindly priest
+And that was the start
+Of their pilgrimage west
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+
+With a little bit of Monkey magic
+There'll be fireworks tonight
+With a little bit of Monkey magic
+Everything will be all right
+
+Bom from an egg on a mountain top
+The punkiest monkey that ever popped
+He knew every magic trick under the sun
+To tease the Gods
+And everyone and have some fun
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+Monkey magic, Monkey magic,
+Monkey magic, Monkey magic
+```
