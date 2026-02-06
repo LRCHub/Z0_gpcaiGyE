@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "モンキー・マジック",
+  "base_artist": "GODIEGO",
+  "createdAt": "2026-02-06T19:31:04.076374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モンキー・マジック",
+      "artist": "タケカワユキヒデ",
+      "has_synced": false,
+      "path": "select/01_モンキー・マジック_タケカワユキヒデ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ザ・バース・オブ・ジ・オデッセイ~モンキー・マジック",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/02_ザ・バース・オブ・ジ・オデッセイ~モンキー・マジック_Godiego.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ザ・バース・オブ・ジ・オデッセイ 〜 モンキー・マジック",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/03_ザ・バース・オブ・ジ・オデッセイ_〜_モンキー・マジック_Godiego.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モンキー・マジック",
+      "artist": "GODIEGO - Topic",
+      "has_synced": false,
+      "path": "select/04_モンキー・マジック_GODIEGO_-_Topic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/05_モンキー・マジック_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "モンキー・マジック",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/06_モンキー・マジック_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "モンキー・マジック",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/07_モンキー・マジック_Godiego.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/08_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "モンキー・マジック (24bit/96kHz)",
+      "artist": "GODIEGO",
+      "has_synced": true,
+      "path": "select/09_モンキー・マジック_(24bit_96kHz)_GODIEGO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_01_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_02_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_03_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_04_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_05_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Monkey Magic",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_06_Monkey_Magic_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_07_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "モンキー・マジック",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_08_モンキー・マジック_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "MONKEY MAGIC",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_09_MONKEY_MAGIC_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Monkey Magic",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_10_Monkey_Magic_ゴダイゴ.txt"
+    }
+  ]
+}
